@@ -1,0 +1,27 @@
+.clodes{
+position: absolute;
+z-index: -70;
+top: 0;
+left: 0;
+}
+
+.frontHaze{
+position: absolute;
+z-index: -70;
+top: 0;
+left: 0;
+}
+
+.backHaze{
+position: absolute;
+z-index: -70;
+top: 0;
+left: 0;
+}
+
+.stars{
+    position: absolute;
+    z-index: -70;
+    top: 0;
+    left: 0;
+}

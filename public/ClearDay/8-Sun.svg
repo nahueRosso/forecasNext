@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="750" height="500" viewBox="0 0 750 500">
+  <defs>
+    <style>
+      .cls-1 {
+        isolation: isolate;
+      }
+
+      .cls-2 {
+        mix-blend-mode: multiply;
+      }
+
+      .cls-3 {
+        fill: #ffc300;
+      }
+    </style>
+  </defs>
+  <title>Mesa de trabajo 1</title>
+  <g class="cls-1">
+    <g id="sol">
+      <g>
+        <image class="cls-2" width="852" height="852" transform="translate(-27.85 -12.5) scale(0.24)" xlink:href="Mesa%20de%20trabajo%2011.png"/>
+        <circle class="cls-3" cx="74.4" cy="89.72" r="27.21"/>
+      </g>
+    </g>
+  </g>
+</svg>

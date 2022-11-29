@@ -1,0 +1,21 @@
+<svg id="luna" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="750" height="500" viewBox="0 0 750 500">
+  <defs>
+    <style>
+      .cls-1, .cls-2 {
+        fill: #eee;
+      }
+
+      .cls-1 {
+        stroke: #eee;
+        stroke-miterlimit: 10;
+        stroke-width: 0.25px;
+      }
+    </style>
+  </defs>
+  <title>Mesa de trabajo 1</title>
+  <g>
+    <image width="842" height="852" transform="translate(-48.84 -26.81) scale(0.24)" xlink:href="Mesa%20de%20trabajo%2011.png"/>
+    <path class="cls-1" d="M52.35,48.8c-8.08,18.25,6,38.35,25.71,36.87.15,3.34-6.13,11-12.23,13.9-12.24,5.8-25.34,3-33.68-7.43a26.92,26.92,0,0,1-.31-33.07C36.42,52.85,47.91,47,52.35,48.8Z"/>
+  </g>
+  <path class="cls-2" d="M548.62,24.11a.63.63,0,0,0,0-1.25.63.63,0,0,0,0,1.25Z"/>
+</svg>
